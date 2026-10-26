@@ -1,0 +1,212 @@
+touch_id,user_id,touch_time,source,campaign,click_id
+T00001,U0001,2026-07-02 10:31:00,Meta,META_Prospecting_Broad,fbclid_688613
+T00002,U0002,2026-07-12 5:02:00,google / cpc,G_Search_Brand,gclid_f30a9e
+T00003,U0002,2026-07-14 21:38:00,bing / cpc,MS_Search_Brand,msclkid_b24cc6
+T00004,U0003,2026-07-17 21:22:00,fb,META_Retargeting_DPA,fbclid_086018
+T00005,U0003,2026-07-22 15:09:00,Meta,META_Prospecting_Broad,fbclid_5edb0d
+T00006,U0004,2026-07-03 6:15:00,bing / cpc,MS_Search_NonBrand,msclkid_364c91
+T00007,U0004,2026-07-07 11:03:00,Meta,META_Prospecting_Broad,fbclid_a3b5ce
+T00008,U0004,2026-07-11 13:29:00,google / cpc,G_Search_Brand,gclid_f89992
+T00009,U0004,2026-07-14 17:19:00,bing,MS_Search_Brand,msclkid_0cf2b6
+T00010,U0005,2026-07-03 20:46:00,Meta,META_Retargeting_DPA,fbclid_374896
+T00011,U0006,2026-07-18 14:54:00,Google Ads,G_Search_Brand,gclid_dbc080
+T00012,U0007,2026-07-13 7:01:00,google,G_Search_NonBrand,gclid_bde13c
+T00013,U0007,2026-07-15 7:09:00,Google Ads,G_Search_Brand,gclid_86ad8a
+T00014,U0007,2026-07-15 14:41:00,google,G_Search_Brand,gclid_bee3eb
+T00015,U0007,2026-07-19 17:00:00,facebook,META_Retargeting_DPA,fbclid_79eb41
+T00016,U0007,2026-07-22 10:28:00,Microsoft Ads,MS_Search_Brand,msclkid_c72c1f
+T00017,U0008,2026-07-22 12:19:00,facebook,META_Prospecting_Broad,fbclid_ffa361
+T00018,U0008,2026-07-28 11:12:00,Google Ads,G_Search_NonBrand,gclid_d8e88e
+T00019,U0009,2026-07-11 2:14:00,Google Ads,G_Search_Brand,gclid_fe9fec
+T00020,U0009,2026-07-12 0:47:00,google / cpc,G_Search_NonBrand,gclid_87d292
+T00021,U0009,2026-07-13 17:47:00,fb,META_Retargeting_DPA,fbclid_7426b1
+T00022,U0010,2026-07-20 9:44:00,fb,META_Prospecting_Broad,fbclid_bac7e2
+T00023,U0010,2026-07-22 20:56:00,google,G_Search_NonBrand,gclid_50032b
+T00024,U0010,2026-07-25 11:49:00,Google Ads,G_Search_NonBrand,gclid_50018b
+T00025,U0011,2026-07-04 11:21:00,fb,META_Prospecting_Broad,fbclid_18b872
+T00026,U0011,2026-07-09 21:21:00,google / cpc,G_Search_Brand,gclid_bd21bc
+T00027,U0012,2026-07-13 18:42:00,Meta,META_Prospecting_Broad,fbclid_4ffca6
+T00028,U0012,2026-07-15 4:34:00,Google Ads,G_Search_NonBrand,gclid_1a8591
+T00029,U0012,2026-07-20 0:33:00,bing / cpc,MS_Search_Brand,msclkid_81e5c9
+T00030,U0013,2026-07-08 23:12:00,bing / cpc,MS_Search_Brand,msclkid_edd877
+T00031,U0013,2026-07-13 4:04:00,google / cpc,G_Search_Brand,gclid_d4578a
+T00032,U0013,2026-07-16 8:38:00,Meta,META_Prospecting_Broad,fbclid_447774
+T00033,U0013,2026-07-21 6:18:00,bing,MS_Search_Brand,msclkid_2e2fbf
+T00034,U0014,2026-07-05 3:04:00,bing,MS_Search_Brand,msclkid_bf012e
+T00035,U0014,2026-07-09 17:00:00,google / cpc,G_Search_Brand,gclid_3712f2
+T00036,U0015,2026-07-17 10:05:00,google / cpc,G_Search_NonBrand,gclid_14e286
+T00037,U0015,2026-07-18 9:46:00,fb,META_Retargeting_DPA,fbclid_716fda
+T00038,U0016,2026-07-11 1:24:00,Google Ads,G_Search_NonBrand,gclid_ad9fb0
+T00039,U0016,2026-07-13 12:45:00,bing / cpc,MS_Search_Brand,msclkid_97d7a5
+T00040,U0017,2026-07-14 15:18:00,Google Ads,G_Search_Brand,gclid_4a1935
+T00041,U0018,2026-07-03 22:33:00,google,G_Search_NonBrand,gclid_65a674
+T00042,U0018,2026-07-06 13:53:00,Meta,META_Prospecting_Broad,fbclid_0ad452
+T00043,U0019,2026-07-14 2:26:00,google / cpc,G_Search_NonBrand,gclid_eb7607
+T00044,U0019,2026-07-18 17:22:00,fb,META_Retargeting_DPA,fbclid_168fae
+T00045,U0019,2026-07-23 11:55:00,Google Ads,G_Search_NonBrand,gclid_d83020
+T00046,U0019,2026-07-28 3:01:00,facebook,META_Retargeting_DPA,fbclid_3e49fd
+T00047,U0020,2026-07-08 1:27:00,Meta,META_Retargeting_DPA,fbclid_828c37
+T00048,U0020,2026-07-10 14:27:00,facebook,META_Retargeting_DPA,fbclid_e7ea8d
+T00049,U0021,2026-07-22 19:19:00,Meta,META_Retargeting_DPA,fbclid_272279
+T00050,U0021,2026-07-24 12:08:00,google / cpc,G_Search_Brand,gclid_134a5a
+T00051,U0022,2026-07-18 6:59:00,fb,META_Prospecting_Broad,fbclid_976749
+T00052,U0022,2026-07-21 23:44:00,bing,MS_Search_Brand,msclkid_5a18e2
+T00053,U0022,2026-07-25 14:33:00,bing / cpc,MS_Search_Brand,msclkid_12fe28
+T00054,U0023,2026-07-07 12:46:00,google / cpc,G_Search_Brand,gclid_8de7ad
+T00055,U0023,2026-07-08 13:55:00,Meta,META_Prospecting_Broad,fbclid_e5582e
+T00056,U0024,2026-07-11 19:45:00,Meta,META_Prospecting_Broad,fbclid_159698
+T00057,U0024,2026-07-12 13:08:00,google / cpc,G_Search_NonBrand,gclid_a56895
+T00058,U0025,2026-07-12 22:12:00,fb,META_Prospecting_Broad,fbclid_18318a
+T00059,U0025,2026-07-14 18:02:00,google / cpc,G_Search_NonBrand,gclid_adaa44
+T00060,U0025,2026-07-17 23:46:00,Google Ads,G_Search_NonBrand,gclid_48bddb
+T00061,U0025,2026-07-21 20:39:00,fb,META_Prospecting_Broad,fbclid_b9469b
+T00062,U0025,2026-07-22 11:26:00,Meta,META_Retargeting_DPA,fbclid_f6e393
+T00063,U0026,2026-07-08 14:03:00,Google Ads,G_Search_Brand,gclid_8f1584
+T00064,U0026,2026-07-10 5:10:00,Microsoft Ads,MS_Search_NonBrand,msclkid_a4bbf9
+T00065,U0026,2026-07-13 18:22:00,Microsoft Ads,MS_Search_NonBrand,msclkid_d02ce0
+T00066,U0026,2026-07-18 5:53:00,google,G_Search_Brand,gclid_ab8cbf
+T00067,U0027,2026-07-16 14:19:00,bing,MS_Search_NonBrand,msclkid_fffe77
+T00068,U0027,2026-07-17 16:20:00,facebook,META_Prospecting_Broad,fbclid_27aa7c
+T00069,U0027,2026-07-22 12:27:00,facebook,META_Prospecting_Broad,fbclid_4bb907
+T00070,U0027,2026-07-22 17:55:00,google,G_Search_NonBrand,gclid_81f7f3
+T00071,U0027,2026-07-24 19:38:00,bing / cpc,MS_Search_Brand,msclkid_d5ca69
+T00072,U0028,2026-07-16 1:30:00,google / cpc,G_Search_NonBrand,gclid_700b5d
+T00073,U0028,2026-07-17 13:47:00,google,G_Search_Brand,gclid_692e07
+T00074,U0029,2026-07-18 2:54:00,facebook,META_Retargeting_DPA,fbclid_5e2ad3
+T00075,U0029,2026-07-23 5:59:00,google / cpc,G_Search_NonBrand,gclid_f2771f
+T00076,U0029,2026-07-25 23:47:00,google / cpc,G_Search_NonBrand,gclid_fc043f
+T00077,U0030,2026-07-10 12:38:00,bing / cpc,MS_Search_NonBrand,msclkid_7b07fd
+T00078,U0030,2026-07-12 19:39:00,Microsoft Ads,MS_Search_Brand,msclkid_8df661
+T00079,U0031,2026-07-12 17:45:00,Microsoft Ads,MS_Search_Brand,msclkid_177a8a
+T00080,U0031,2026-07-16 0:05:00,google,G_Search_Brand,gclid_d11376
+T00081,U0031,2026-07-17 20:21:00,Google Ads,G_Search_NonBrand,gclid_e27718
+T00082,U0032,2026-07-09 12:13:00,google,G_Search_NonBrand,gclid_2339ba
+T00083,U0032,2026-07-10 11:00:00,google,G_Search_Brand,gclid_4970ed
+T00084,U0033,2026-07-19 21:53:00,Google Ads,G_Search_Brand,gclid_373526
+T00085,U0033,2026-07-25 6:28:00,google,G_Search_Brand,gclid_8c7e6f
+T00086,U0034,2026-07-10 15:09:00,google,G_Search_Brand,gclid_1c612e
+T00087,U0034,2026-07-13 22:19:00,Google Ads,G_Search_NonBrand,gclid_98c3e3
+T00088,U0034,2026-07-15 8:05:00,Meta,META_Retargeting_DPA,fbclid_04351b
+T00089,U0035,2026-07-17 8:25:00,google,G_Search_Brand,gclid_aa143c
+T00090,U0035,2026-07-22 6:07:00,Meta,META_Retargeting_DPA,fbclid_15eacb
+T00091,U0036,2026-07-12 13:04:00,Meta,META_Retargeting_DPA,fbclid_630aa7
+T00092,U0036,2026-07-18 8:10:00,Microsoft Ads,MS_Search_Brand,msclkid_40ef39
+T00093,U0037,2026-07-02 12:53:00,google,G_Search_NonBrand,gclid_0b5995
+T00094,U0037,2026-07-03 17:41:00,fb,META_Retargeting_DPA,fbclid_8bc78e
+T00095,U0038,2026-07-11 13:44:00,bing,MS_Search_NonBrand,msclkid_4b1f0d
+T00096,U0038,2026-07-17 0:54:00,facebook,META_Prospecting_Broad,fbclid_0b36e3
+T00097,U0038,2026-07-18 14:13:00,google,G_Search_Brand,gclid_e2c328
+T00098,U0039,2026-07-13 8:34:00,Google Ads,G_Search_NonBrand,gclid_be4969
+T00099,U0039,2026-07-13 19:03:00,fb,META_Retargeting_DPA,fbclid_e506f6
+T00100,U0039,2026-07-15 23:44:00,Google Ads,G_Search_NonBrand,gclid_56cb1a
+T00101,U0039,2026-07-16 13:17:00,bing,MS_Search_Brand,msclkid_7f072c
+T00102,U0039,2026-07-20 8:25:00,google / cpc,G_Search_NonBrand,gclid_7f5db1
+T00103,U0040,2026-07-10 15:50:00,google / cpc,G_Search_Brand,gclid_4b3446
+T00104,U0041,2026-07-11 3:31:00,fb,META_Retargeting_DPA,fbclid_727716
+T00105,U0042,2026-07-15 13:14:00,bing / cpc,MS_Search_NonBrand,msclkid_cd14a0
+T00106,U0042,2026-07-16 5:23:00,google / cpc,G_Search_Brand,gclid_adedda
+T00107,U0043,2026-07-18 18:42:00,google / cpc,G_Search_NonBrand,gclid_2747b9
+T00108,U0043,2026-07-20 5:40:00,google / cpc,G_Search_Brand,gclid_732e20
+T00109,U0043,2026-07-24 10:11:00,Google Ads,G_Search_NonBrand,gclid_5f3c44
+T00110,U0044,2026-07-10 1:22:00,Google Ads,G_Search_NonBrand,gclid_848af4
+T00111,U0044,2026-07-13 5:58:00,fb,META_Retargeting_DPA,fbclid_e9ddeb
+T00112,U0045,2026-07-05 21:11:00,bing,MS_Search_NonBrand,msclkid_e60fd4
+T00113,U0045,2026-07-09 3:39:00,Meta,META_Prospecting_Broad,fbclid_71f2ce
+T00114,U0045,2026-07-14 18:16:00,google,G_Search_Brand,gclid_cf7dcb
+T00115,U0046,2026-07-08 6:32:00,fb,META_Prospecting_Broad,fbclid_823dd1
+T00116,U0046,2026-07-09 0:45:00,facebook,META_Prospecting_Broad,fbclid_1f119c
+T00117,U0046,2026-07-12 8:32:00,bing,MS_Search_NonBrand,msclkid_cac4d0
+T00118,U0046,2026-07-14 4:02:00,facebook,META_Retargeting_DPA,fbclid_3c9abe
+T00119,U0047,2026-07-13 14:34:00,Meta,META_Prospecting_Broad,fbclid_e25df9
+T00120,U0048,2026-07-11 21:24:00,fb,META_Prospecting_Broad,fbclid_ae1b9f
+T00121,U0048,2026-07-16 13:42:00,Meta,META_Retargeting_DPA,fbclid_58321e
+T00122,U0048,2026-07-17 10:20:00,google,G_Search_Brand,gclid_e0c1ff
+T00123,U0049,2026-07-14 9:00:00,google,G_Search_NonBrand,gclid_84a257
+T00124,U0049,2026-07-15 20:44:00,google,G_Search_NonBrand,gclid_4ddb1b
+T00125,U0050,2026-07-22 13:27:00,Microsoft Ads,MS_Search_NonBrand,msclkid_3240d7
+T00126,U0051,2026-07-03 20:21:00,facebook,META_Prospecting_Broad,fbclid_a8a2b7
+T00127,U0051,2026-07-04 22:21:00,Meta,META_Retargeting_DPA,fbclid_b87b63
+T00128,U0052,2026-07-22 0:35:00,Meta,META_Prospecting_Broad,fbclid_35f789
+T00129,U0052,2026-07-22 8:49:00,google / cpc,G_Search_Brand,gclid_6aa56e
+T00130,U0053,2026-07-07 14:11:00,fb,META_Prospecting_Broad,fbclid_6a662f
+T00131,U0053,2026-07-11 1:10:00,fb,META_Prospecting_Broad,fbclid_76e5ae
+T00132,U0053,2026-07-15 16:33:00,google,G_Search_Brand,gclid_5716dc
+T00133,U0054,2026-07-20 14:05:00,Google Ads,G_Search_NonBrand,gclid_3de288
+T00134,U0054,2026-07-25 3:27:00,fb,META_Retargeting_DPA,fbclid_1f5d98
+T00135,U0055,2026-07-22 12:18:00,google,G_Search_NonBrand,gclid_d04015
+T00136,U0056,2026-07-04 15:01:00,fb,META_Prospecting_Broad,fbclid_7f53a8
+T00137,U0057,2026-07-05 21:29:00,fb,META_Prospecting_Broad,fbclid_5dae12
+T00138,U0057,2026-07-06 11:16:00,google,G_Search_Brand,gclid_668c84
+T00139,U0057,2026-07-12 2:54:00,facebook,META_Prospecting_Broad,fbclid_91fdfa
+T00140,U0057,2026-07-17 11:54:00,google / cpc,G_Search_NonBrand,gclid_31d4ee
+T00141,U0057,2026-07-17 14:37:00,Microsoft Ads,MS_Search_Brand,msclkid_8da004
+T00142,U0058,2026-07-07 8:45:00,Meta,META_Retargeting_DPA,fbclid_f05eee
+T00143,U0058,2026-07-08 17:41:00,Google Ads,G_Search_Brand,gclid_c14565
+T00144,U0058,2026-07-09 20:35:00,google,G_Search_NonBrand,gclid_32f575
+T00145,U0059,2026-07-04 2:50:00,fb,META_Retargeting_DPA,fbclid_2620f9
+T00146,U0060,2026-07-08 5:57:00,Google Ads,G_Search_Brand,gclid_956d80
+T00147,U0060,2026-07-11 16:09:00,fb,META_Prospecting_Broad,fbclid_cbf81f
+T00148,U0060,2026-07-17 11:10:00,Meta,META_Retargeting_DPA,fbclid_df41e3
+T00149,U0060,2026-07-23 1:25:00,Meta,META_Retargeting_DPA,fbclid_a11737
+T00150,U0060,2026-07-26 11:46:00,bing,MS_Search_Brand,msclkid_98cf11
+T00151,U0061,2026-07-14 3:27:00,google,G_Search_NonBrand,gclid_d25864
+T00152,U0061,2026-07-14 17:58:00,Meta,META_Prospecting_Broad,fbclid_3e0098
+T00153,U0061,2026-07-16 17:01:00,facebook,META_Prospecting_Broad,fbclid_9293f7
+T00154,U0062,2026-07-01 10:20:00,Microsoft Ads,MS_Search_Brand,msclkid_80773e
+T00155,U0063,2026-07-20 20:40:00,bing / cpc,MS_Search_Brand,msclkid_57a2be
+T00156,U0063,2026-07-21 14:10:00,Meta,META_Retargeting_DPA,fbclid_5ab28d
+T00157,U0063,2026-07-27 12:18:00,google / cpc,G_Search_NonBrand,gclid_c5a11f
+T00158,U0063,2026-07-31 5:33:00,bing / cpc,MS_Search_NonBrand,msclkid_ae455c
+T00159,U0063,2026-08-05 16:40:00,google / cpc,G_Search_Brand,gclid_cdbc2c
+T00160,U0064,2026-07-05 9:00:00,bing / cpc,MS_Search_NonBrand,msclkid_351028
+T00161,U0064,2026-07-08 13:41:00,Meta,META_Prospecting_Broad,fbclid_b47a1c
+T00162,U0064,2026-07-11 3:35:00,Microsoft Ads,MS_Search_NonBrand,msclkid_512995
+T00163,U0065,2026-07-07 5:20:00,Google Ads,G_Search_NonBrand,gclid_ec8be5
+T00164,U0065,2026-07-11 13:30:00,Microsoft Ads,MS_Search_NonBrand,msclkid_a7edc8
+T00165,U0065,2026-07-16 1:44:00,fb,META_Retargeting_DPA,fbclid_bf5193
+T00166,U0065,2026-07-17 18:13:00,fb,META_Retargeting_DPA,fbclid_36c7d6
+T00167,U0066,2026-07-07 4:20:00,google / cpc,G_Search_Brand,gclid_3b9b2d
+T00168,U0066,2026-07-09 22:10:00,google,G_Search_NonBrand,gclid_19a692
+T00169,U0067,2026-07-01 2:49:00,Microsoft Ads,MS_Search_NonBrand,msclkid_a55990
+T00170,U0067,2026-07-02 22:26:00,google,G_Search_NonBrand,gclid_e86e8e
+T00171,U0067,2026-07-08 8:49:00,bing,MS_Search_Brand,msclkid_a6fd0c
+T00172,U0068,2026-07-01 20:22:00,bing / cpc,MS_Search_NonBrand,msclkid_f64e3d
+T00173,U0068,2026-07-03 20:40:00,Google Ads,G_Search_NonBrand,gclid_e0723d
+T00174,U0068,2026-07-05 21:10:00,bing,MS_Search_NonBrand,msclkid_025f55
+T00175,U0068,2026-07-06 7:35:00,Microsoft Ads,MS_Search_Brand,msclkid_9165f2
+T00176,U0069,2026-07-13 8:42:00,Meta,META_Prospecting_Broad,fbclid_564cfb
+T00177,U0069,2026-07-14 21:50:00,Microsoft Ads,MS_Search_Brand,msclkid_915a1c
+T00178,U0069,2026-07-20 6:08:00,google / cpc,G_Search_NonBrand,gclid_c1dd48
+T00179,U0069,2026-07-21 13:23:00,google,G_Search_NonBrand,gclid_2ced3c
+T00180,U0069,2026-07-26 19:11:00,Meta,META_Prospecting_Broad,fbclid_db2c6a
+T00181,U0070,2026-07-10 17:34:00,fb,META_Prospecting_Broad,fbclid_ef9240
+T00182,U0070,2026-07-11 17:45:00,google,G_Search_Brand,gclid_01bf9e
+T00183,U0071,2026-07-08 12:01:00,Google Ads,G_Search_NonBrand,gclid_a757cb
+T00184,U0072,2026-07-07 23:33:00,google / cpc,G_Search_Brand,gclid_1e0ef5
+T00185,U0073,2026-07-09 8:43:00,facebook,META_Prospecting_Broad,fbclid_ae2ae3
+T00186,U0073,2026-07-11 21:03:00,bing / cpc,MS_Search_NonBrand,msclkid_df85c7
+T00187,U0073,2026-07-17 8:07:00,google,G_Search_Brand,gclid_86879a
+T00188,U0073,2026-07-21 14:38:00,Google Ads,G_Search_NonBrand,gclid_87365a
+T00189,U0073,2026-07-26 23:42:00,Meta,META_Retargeting_DPA,fbclid_5c9dee
+T00190,U0074,2026-07-21 13:05:00,fb,META_Prospecting_Broad,fbclid_cf0671
+T00191,U0074,2026-07-23 6:30:00,google,G_Search_Brand,gclid_741423
+T00192,U0074,2026-07-29 5:05:00,google,G_Search_NonBrand,gclid_836435
+T00193,U0074,2026-07-31 13:40:00,fb,META_Retargeting_DPA,fbclid_74f0be
+T00194,U0075,2026-07-19 8:41:00,google / cpc,G_Search_NonBrand,gclid_12b210
+T00195,U0075,2026-07-19 15:07:00,google,G_Search_NonBrand,gclid_6c776e
+T00196,U0076,2026-07-21 8:21:00,Google Ads,G_Search_Brand,gclid_68ab80
+T00197,U0077,2026-07-15 16:44:00,bing / cpc,MS_Search_NonBrand,msclkid_2099d1
+T00198,U0077,2026-07-19 23:29:00,bing / cpc,MS_Search_NonBrand,msclkid_fa8dae
+T00199,U0077,2026-07-24 8:25:00,google,G_Search_NonBrand,gclid_d5b6de
+T00200,U0077,2026-07-28 15:59:00,google,G_Search_NonBrand,gclid_c194f9
+T00201,U0077,2026-07-30 4:47:00,google,G_Search_Brand,gclid_fa7e5d
+T00202,U0078,2026-07-10 15:37:00,facebook,META_Prospecting_Broad,fbclid_cf39f6
+T00203,U0078,2026-07-13 6:49:00,google / cpc,G_Search_NonBrand,gclid_6b535a
+T00204,U0078,2026-07-17 5:50:00,Meta,META_Retargeting_DPA,fbclid_c41c14
+T00205,U0079,2026-07-06 11:26:00,google / cpc,G_Search_NonBrand,gclid_379ef4
+T00206,U0079,2026-07-07 15:29:00,facebook,META_Prospecting_Broad,fbclid_23dfec
+T00207,U0079,2026-07-12 17:53:00,Meta,META_Prospecting_Broad,fbclid_fe54ee
+T00208,U0079,2026-07-13 7:40:00,Microsoft Ads,MS_Search_Brand,msclkid_3bf202
+T00209,U0080,2026-07-08 6:09:00,fb,META_Prospecting_Broad,fbclid_46707c
+T00210,U0080,2026-07-11 22:12:00,google,G_Search_NonBrand,gclid_8e8514
+T00211,U0080,2026-07-13 13:49:00,bing / cpc,MS_Search_NonBrand,msclkid_e134ed
