@@ -29,13 +29,13 @@ The full pipeline is in `/sql` (BigQuery) and `/python` (pandas version that pro
 
 ## Finding 1: most buyers click more than one ad first
 
-![Path length](charts/02_path_length.png)
+![Path length](python/charts/02_path_length.png)
 
 40 of the 50 orders (80%) came after two or more ad clicks, and 68% of orders involved two or more channels. A single-touch model has to throw away information on four out of five sales. That alone is the case for looking past last click.
 
 ## Finding 2: last click overstates Microsoft brand search
 
-![Revenue by model](charts/03_revenue_by_model.png)
+![Revenue by model](python/charts/03_revenue_by_model.png)
 
 Under last click, Microsoft gets $1,114 of revenue. Under time decay it gets $762, about 32% less. Most Microsoft clicks in this data are brand searches that happen right before purchase, from people who had already clicked a Google or Meta ad earlier in the month. Last click hands the whole sale to that final search.
 
@@ -45,7 +45,7 @@ Meta tends to appear at the start of the path and rarely at the end. Its credite
 
 ## Finding 4: what this means for budget
 
-![Efficiency index](charts/04_efficiency_index.png)
+![Efficiency index](python/charts/04_efficiency_index.png)
 
 The efficiency index compares a channel's share of credited revenue with its share of spend. At 1.0 the channel earns exactly the credit its budget would predict.
 
