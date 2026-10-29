@@ -6,11 +6,12 @@ as the SQL files (30-day lookback; last click, linear and 7-day time decay),
 prints a summary table and saves 4 charts to python/charts.
 
 Run:  python python/attribution_charts.py      (from the repo root)
-Needs: pandas, matplotlib
+Needs: pandas>=2.0, matplotlib  (see requirements.txt)
 """
 
 from pathlib import Path
 
+import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 import pandas as pd
 
@@ -172,6 +173,7 @@ def channel_summary(ads, credits):
     spend = ads.groupby("channel")["spend"].sum()
     revenue = credits.pivot_table(index="channel", columns="model",
                                   values="attributed_revenue", aggfunc="sum").reindex(columns=MODELS)
+    revenue = revenue.reindex(spend.index).fillna(0)   # keep only paid channels, as in the SQL
     share_of_spend = spend / spend.sum()
     share_of_credit = revenue / revenue.sum()
     efficiency = share_of_credit.div(share_of_spend, axis=0)
@@ -199,7 +201,7 @@ def chart_daily_spend(ads):
     ax.set_title("Daily ad spend by channel, July 2026")
     ax.set_ylabel("Spend ($)")
     ax.set_ylim(bottom=0)
-    ax.xaxis.set_major_formatter(plt.matplotlib.dates.DateFormatter("%b %d"))
+    ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %d"))
     ax.grid(axis="x", visible=False)
     save(fig, "01_daily_spend.png")
 
