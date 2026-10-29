@@ -3,7 +3,7 @@ Multi-channel attribution: Python version of the BigQuery pipeline, plus charts.
 
 Reads the 5 CSVs in ../data, applies the same cleaning and attribution logic
 as the SQL files (30-day lookback; last click, linear and 7-day time decay),
-prints a summary table and saves 4 charts to ../charts.
+prints a summary table and saves 4 charts to python/charts.
 
 Run:  python python/attribution_charts.py      (from the repo root)
 Needs: pandas, matplotlib
@@ -19,7 +19,7 @@ import pandas as pd
 # ---------------------------------------------------------------------------
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = REPO_ROOT / "data"
-CHART_DIR = REPO_ROOT / "charts"
+CHART_DIR = REPO_ROOT / "python" / "charts"
 
 LOOKBACK_DAYS = 30
 HALF_LIFE_DAYS = 7
