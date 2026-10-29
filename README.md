@@ -1,10 +1,16 @@
 # Multi-Channel Attribution & ROAS Analysis
 
-A SQL pipeline in **Google BigQuery** that combines Google Ads, Meta Ads and Microsoft Ads data into one model and compares three attribution methods (last click, linear, time decay) to show how each one changes budget decisions.
+A BigQuery and Python pipeline that combines Google Ads, Meta Ads and Microsoft Ads data and compares three attribution models (last click, linear, time decay) to show how each one changes budget decisions.
 
-**Tools:** Google Sheets, BigQuery (SQL), Python (pandas, matplotlib)
+**Key result:** judged on last click, Microsoft brand search looks 65% more efficient than its budget share and Meta prospecting looks 21% less. Once every click in the path gets credit, both move close to 1.0. Cutting Meta on last-click numbers would likely be a mistake.
 
-📄 **[Read the findings write-up →](FINDINGS.md)**
+![Efficiency index](python/charts/04_efficiency_index.png)
+
+📄 **[Read the findings write-up →](FINDINGS.md)** · **Tools:** BigQuery (SQL), Python (pandas, matplotlib), Google Sheets
+
+**Why synthetic data:** I manage Google, Meta and Microsoft Ads accounts day to day, but client data is confidential. This dataset reproduces the problems I deal with in real exports: cost in micros, inconsistent campaign names, mixed date formats, and one channel reported under six different source labels.
+
+---
 
 ## The business question
 
