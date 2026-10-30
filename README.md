@@ -10,6 +10,11 @@ A BigQuery and Python pipeline that combines Google Ads, Meta Ads and Microsoft 
 
 **Why synthetic data:** I manage Google, Meta and Microsoft Ads accounts day to day, but client data is confidential. This dataset reproduces the problems I deal with in real exports: cost in micros, inconsistent campaign names, mixed date formats, and one channel reported under six different source labels.
 
+> **Part 1 of a marketing analytics series**
+> 1. **Multi-channel attribution & ROAS**: which channel gets credit?
+> 2. [Cohort LTV & CAC payback](https://github.com/paolofelix/cohort-ltv-cac-payback): what is a customer worth, and how fast does spend pay back?
+> 3. [Marketing Mix Model](https://github.com/paolofelix/marketing-mix-model): what would have happened *without* each channel?
+
 ---
 
 ## The business question
