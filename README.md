@@ -154,5 +154,5 @@ To run it locally (from the repo root):
 
 ## About me
 
-Paolo Felix: Data analyst with a background in finance operations and paid media analytics across Google, Meta and Microsoft Ads.
+Paolo Felix: Data analyst with a background in financial operations and paid media analytics across Google, Meta and Microsoft Ads.
 https://www.linkedin.com/in/paolo-stefano-b-felix/ · paolobfelix@gmail.com
